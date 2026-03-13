@@ -10,11 +10,11 @@
 
 ![Profile Views in real time ](https://visitor-badge.laobi.icu/badge?page_id=Zeeshan0xeth.Zeeshan0xeth)
 
-Hi, I'm Zeeshannnn
+Hi, I'm Zex
 
 ---
 
-<a href="https://x.com/Zeeshan0xeth?t=eBe8Q6AmIj4dZ4_DNuKf7A&s=09" target="_blank">
+<a href="https://x.com/zexxbt?t=eBe8Q6AmIj4dZ4_DNuKf7A&s=09" target="_blank">
   <img src="https://img.shields.io/badge/X-24292f?style=plastic&logo=twitter&logoColor=white" alt="X (Twitter)">
 </a>
 &nbsp;
