@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20Zex%20GitHub%20&center=true&width=300&height=40&color=FFD700&vCenter=true&size=22" alt="Typing SVG">
 </p>
 
-<img src="https://giphy.com/gifs/knkwxO3n6THkDaMD3J" width="75" alt="Profile Picture"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTU1aDhsdDJocjdrOGhvazhyaXQ3M3FnMWU2djM5NXdlczYzbGsweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/knkwxO3n6THkDaMD3J/giphy.gif" width="75" alt="Profile Picture"/>
 
 
 
