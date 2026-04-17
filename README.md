@@ -22,4 +22,8 @@ Hi, I'm Zeeshan
   <img src="https://img.shields.io/badge/Telegram-191970?style=plastic&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Linkdin-191970?style=plastic&logo=telegram&logoColor=white" alt="Linkdin">
+</a>
+
 </div>
