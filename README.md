@@ -22,7 +22,7 @@ Hi, I'm TZR
   <img src="https://img.shields.io/badge/Telegram-191970?style=plastic&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 &nbsp;
-<a href="www.linkedin.com/in/zeeshanxeth" target="_blank"> 
+<a href="www.linkedin.com/in/tzrcrypto" target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-191970?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </div>
