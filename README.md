@@ -14,11 +14,11 @@ Hi, I'm Zeeshan
 
 ---
 
-<a href="https://x.com/Zeeshanxeth?t=eBe8Q6AmIj4dZ4_DNuKf7A&s=09" target="_blank">
+<a href="https://x.com/tzrcrypto?t=eBe8Q6AmIj4dZ4_DNuKf7A&s=09" target="_blank">
   <img src="https://img.shields.io/badge/X-24292f?style=plastic&logo=twitter&logoColor=white" alt="X (Twitter)">
 </a>
 &nbsp;
-<a href="https://t.me/Zeeshanxeth" target="_blank">
+<a href="https://t.me/tzrcrypto" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-191970?style=plastic&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 &nbsp;
