@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20Zeeshan%20GitHub%20&center=true&width=300&height=40&color=FFD700&vCenter=true&size=22" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20TZR%20GitHub%20&center=true&width=300&height=40&color=FFD700&vCenter=true&size=22" alt="Typing SVG">
 </p>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z2bTR2N2Jsdnc3Z2Q2bTlhaTZyOWg3Y3BtY21seWV0ZWlmaGwzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MWas87mX5Y8IkfD3ox/giphy.gif" width="75" alt="Profile Picture"/>
